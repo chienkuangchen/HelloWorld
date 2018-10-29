@@ -1,2 +1,2 @@
 # HelloWorld
-python HelloWorld
+python Hello World!
